@@ -1,1 +1,0 @@
-docker-compose -p metaverse down

@@ -1,9 +1,0 @@
-﻿{
-  "nameSpace": "TV.Metaverse",
-  "className": "Sex",
-  "enumObjects": {
-    "Male": "",
-    "Female": "",
-    "Unknown": ""
-  }
-}
