@@ -1,10 +1,12 @@
 {
-  "ProjectId": "65beedb7-1fe0-4ec6-a4c7-e1d7f5cbc1f8",
+  "ProjectId": "d24464c0-824a-4735-9a4f-803eda2be85c",
   "CrpLocalPath": null,
   "JsonMetadataPath": null,
   "OnlineCrpUrl": "https://designer.flexberry.net",
   "OneShotToken": null,
   "GenPath": "src",
+  "BeforeGenScriptPath": null,
+  "AfterGenScriptPath": null,
   "GenerationItems": {
     "Validate": false,
     "Frontend": {
