@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC2AF491-16F6-42C2-93A1-130DA49CAAB3}</ProjectGuid>
+    <ProjectGuid>{CED16231-4D21-4448-BAE9-500C8E2E7AB4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>TV.Metaverse</RootNamespace>

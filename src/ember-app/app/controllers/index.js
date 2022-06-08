@@ -22,31 +22,31 @@ export default Controller.extend({
             link: 't-v-metaverse-chat-bot-message-l',
             caption: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-chat-bot-message-l.caption'),
             title: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-chat-bot-message-l.title'),
-            icon: 'tags',
+            icon: 'address card',
             children: null
           }, {
             link: 't-v-metaverse-request-person-data-l',
             caption: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-request-person-data-l.caption'),
             title: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-request-person-data-l.title'),
-            icon: 'address card',
+            icon: 'folder',
             children: null
           }, {
             link: 't-v-metaverse-social-network-l',
             caption: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-social-network-l.caption'),
             title: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-social-network-l.title'),
-            icon: 'suitcase',
+            icon: 'folder open',
             children: null
           }, {
             link: 't-v-metaverse-person-meta-data-l',
             caption: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-person-meta-data-l.caption'),
             title: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-person-meta-data-l.title'),
-            icon: 'briefcase',
+            icon: 'chart bar',
             children: null
           }, {
             link: 't-v-metaverse-person-l',
             caption: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-person-l.caption'),
             title: i18n.t('forms.application.sitemap.metaverse.t-v-metaverse-person-l.title'),
-            icon: 'paperclip',
+            icon: 'folder open',
             children: null
           }]
         }

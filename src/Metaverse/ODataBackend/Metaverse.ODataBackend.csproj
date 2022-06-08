@@ -7,7 +7,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{AA9D611F-BB3A-45AD-9DB1-5E3AB57CA3E6}</ProjectGuid>
+    <ProjectGuid>{5B577A85-B15D-45EF-960F-A05F8F805084}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -213,7 +213,7 @@
       <HintPath>System.EnterpriseServices</HintPath>
     </Reference>
     <ProjectReference Include="../Objects/Metaverse.Objects.csproj">
-      <Project>{ec2af491-16f6-42c2-93a1-130da49caab3}</Project>
+      <Project>{ced16231-4d21-4448-bae9-500c8e2e7ab4}</Project>
       <Name>Metaverse.Objects</Name>
     </ProjectReference>
   </ItemGroup>
